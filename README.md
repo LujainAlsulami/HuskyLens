@@ -85,9 +85,7 @@ Step 6:
 
 write the code.
 
-Output:
-
-when the face the LED will turn on.
+Output: when the face the LED will turn on.
 
 ![WhatsApp Image 2024-08-04 at 06 22 59_90f54eca](https://github.com/user-attachments/assets/62be722c-b85b-4bc2-9064-65584326ed83)
 
