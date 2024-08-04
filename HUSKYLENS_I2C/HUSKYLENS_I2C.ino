@@ -32,7 +32,7 @@ void loop() {
 
     if (!huskylens.available()) {
         Serial.println(F("No block or arrow appears on the screen!"));
-        digitalWrite(ledPin, LOW); // Turn off LED if no block or arrow is detected
+        digitalWrite(ledPin, LOW); 
         return;
     }
 
