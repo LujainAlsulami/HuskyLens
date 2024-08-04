@@ -20,23 +20,32 @@ Repeat the process of training and testing the 7 functions.
 
 
 
-Face Recognition:
-
-
 Object Tracking:
 
+![WhatsApp Image 2024-08-04 at 06 20 49_980f37ca](https://github.com/user-attachments/assets/fee54851-db02-4808-a6f3-d70a97e9ed49)
+
+![WhatsApp Image 2024-07-31 at 01 47 56_18e04005](https://github.com/user-attachments/assets/f754fc7d-a6f3-4411-9e09-64720c2cbf1c)
 
 Object Recognition:
+![WhatsApp Image 2024-08-04 at 06 23 56_3bc45c04](https://github.com/user-attachments/assets/bbff37a4-4a96-456a-ae82-8a2c64b49e6e)
+![WhatsApp Image 2024-08-04 at 06 23 56_a2170285](https://github.com/user-attachments/assets/68087a63-2ec0-436f-a582-ebe76eebe8b7)
 
 
 Line Tracking:
 
+![WhatsApp Image 2024-08-04 at 06 20 19_b11cdbde](https://github.com/user-attachments/assets/fe394616-c525-421e-8073-61f9b8679042)
+![WhatsApp Image 2024-08-04 at 06 19 29_47dbca9f](https://github.com/user-attachments/assets/7c2e2294-3a52-4f1c-bc9e-aaf64bff32a0)
 
 Color Recognition:
 
+![WhatsApp Image 2024-08-04 at 06 21 46_dccb9aaa](https://github.com/user-attachments/assets/54001658-40ae-4d31-9f83-fffdaa9da3e9)
+![WhatsApp Image 2024-08-04 at 06 21 46_53601d31](https://github.com/user-attachments/assets/cee7aa8e-49a4-4486-be47-f910bb1adee8)
+
 
 Tag Recognition:
+![WhatsApp Image 2024-08-04 at 06 21 46_0f4320e8](https://github.com/user-attachments/assets/c5ba2dd1-5ad4-4d14-85f2-a0d8af90005a)
 
+![WhatsApp Image 2024-08-04 at 06 21 46_0f41dc22](https://github.com/user-attachments/assets/3e25569d-2ded-428f-8f91-e41d86ff9a46)
 
 
 Step 5:
