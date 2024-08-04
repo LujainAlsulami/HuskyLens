@@ -39,8 +39,9 @@ Object Recognition:
 
 Line Tracking:
 
-![WhatsApp Image 2024-08-04 at 06 20 19_b11cdbde](https://github.com/user-attachments/assets/fe394616-c525-421e-8073-61f9b8679042)
 ![WhatsApp Image 2024-08-04 at 06 19 29_47dbca9f](https://github.com/user-attachments/assets/7c2e2294-3a52-4f1c-bc9e-aaf64bff32a0)
+![WhatsApp Image 2024-08-04 at 06 20 19_b11cdbde](https://github.com/user-attachments/assets/fe394616-c525-421e-8073-61f9b8679042)
+
 
 Color Recognition:
 
@@ -85,6 +86,8 @@ Step 6:
 write the code.
 
 Output:
+
 when the face the LED will turn on.
+
 ![WhatsApp Image 2024-08-04 at 06 22 59_90f54eca](https://github.com/user-attachments/assets/62be722c-b85b-4bc2-9064-65584326ed83)
 
